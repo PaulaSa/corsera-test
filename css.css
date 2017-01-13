@@ -46,6 +46,7 @@ p {
 .container{
   padding: 5px;
   margin-top: 5px;
+	 width: 100%;
 }
  .row{
  	width:100%;
