@@ -54,7 +54,9 @@ p {
 section{
 	background-color:#E5FFFF;
 	width: 100%;
-	height: auto;
+	 width: auto;
+    height: auto;
+    display: table;
 	padding: 5px;
 	border:	1px solid black;
 	position: relative;
