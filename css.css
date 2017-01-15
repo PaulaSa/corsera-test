@@ -14,7 +14,6 @@ h1 {
   font-weight: bold;
   color: red;
   text-align: center;
- 
   font-size: 250%;
   
 }
@@ -63,18 +62,18 @@ section{
 #tl1 {
   color: blue;
   background-color: pink;
-
+border:	1px solid black;
 
 }
 #tl2 {
   color: #1affb2;
   background-color: yellow;
-  
+ border:	1px solid black; 
 }
 #tl3 {
   color:#ff00ff; 
   background-color:#6697FF;
-  
+ border:	1px solid black; 
 }
    
 @media (min-width: 992px) {
