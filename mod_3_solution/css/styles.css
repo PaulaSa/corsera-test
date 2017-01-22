@@ -53,25 +53,10 @@
 .text-center{
   color: black;
 }
-.jumbotron{
-color: black;
-text-align: justify;
-}
-.jumbotron h3{
-  text-align: center;
-}
-.container .jumbotron {
-    
-    background-color: grey;
-  }
-  @media(min-width:375px)
-  {
-    .container .jumbotron{
-      height: 200px;
-    }
-  }
+
 h2 {
   position: center;
+	color: black;
   
 }
 	
