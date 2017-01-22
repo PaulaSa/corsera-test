@@ -57,7 +57,7 @@ h1 {
   color: black;  
 }
 h2 {
-text-align: center;
+position: center;
 }
   
 section {
@@ -69,8 +69,8 @@ font-family: Helvetica;
 color:black;
 position:relative;
 overflow:auto;
-margin-left:20px;
-margin-right:20px;
+margin-left:10px;
+margin-right:10px;
 margin-bottom:20px;
 }
 
