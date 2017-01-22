@@ -15,13 +15,7 @@ body {
 .navbar-header{
 	height: 70px;
 }
-.navbar-fixed-top {
-  top: -70px; 
-}
 
-.navbar-fixed-top, .navbar-fixed-bottom {
-  position: relative; 
-}
 
 .navbar-brand h1 {
 	color: black;
