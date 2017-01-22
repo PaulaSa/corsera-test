@@ -34,7 +34,7 @@ body {
 }
 
 .navbar-header .icon-bar{
-	border: 2px solid black;
+	border: 2px black;
 }
 .navbar-header button.navbar-toggle{
   clear: both;
@@ -71,7 +71,7 @@ div > h2{
 	padding-top: 10px;
 }
 p.description{
-	padding: 5px 15px 5px 15px;
+	padding: 5px 10px 5px 10px;
 	text-align: justify;
 
 }
