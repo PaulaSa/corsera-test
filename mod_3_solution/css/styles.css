@@ -5,9 +5,7 @@
 
 box-sizing: border-box;
 
-}
-
- 
+} 
   body {
   font-size: 16px;
   color: #fff;
@@ -68,38 +66,26 @@ h1 {
   margin-top:50px;
   margin-bottom:20px;
   position: center;
-  color: black;
-  
+  color: black;  
+}
+h2 {
+position: center;
 }
   
 section {
-
 border:1px solid black;
-
 background-color:grey;
-
 width:100%;
-
 height:200px;
-
 font-family: Helvetica;
-
 color:black;
-
 position:relative;
-
 overflow:auto;
-
 margin-left:20px;
-
 margin-right:20px;
-
 margin-bottom:20px;
-
 }
 
-  
-}
   @media (max-width: 767px) {
   #collapsable-nav {
     background: #E6E6E6;
