@@ -15,6 +15,13 @@ body {
 .navbar-header{
 	height: 70px;
 }
+.navbar-fixed-top {
+  top: -70px; 
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+  position: relative; 
+}
 
 .navbar-brand h1 {
 	color: black;
@@ -25,9 +32,7 @@ body {
 	margin-bottom: 0;
 	line-height: .75;
 }
-.navbar-brand a:hover, .navbar-brand a:focus{ 
-  text-decoration: none;
-}
+
 
 .navbar-header button.navbar-toggle {
   border: 1px solid black;
