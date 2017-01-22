@@ -74,6 +74,45 @@ h2 {
   position: center;
   
 }
+	
+section {
+
+border:
+1px
+solid
+black;
+
+background-color:
+aqua;
+
+width:
+100%;
+
+height:
+auto;
+
+font-family:
+Helvetica;
+
+color:
+black;
+
+position:
+relative;
+
+overflow:
+auto;
+
+margin-left:
+20px;
+
+margin-right:
+20px;
+
+margin-bottom:
+20px;
+
+}
 #chicken {
   color: blue;
   background-color: pink;
