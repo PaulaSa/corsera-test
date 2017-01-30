@@ -20,6 +20,6 @@ var speakWord = "Hello";
 helloSpeaker.speak = function(name) {
   console.log(speakWord + " " + name);
 }
-window.hellowSpeaker = helloSpeaker;
+window.helloSpeaker = helloSpeaker;
 
 })(window);
